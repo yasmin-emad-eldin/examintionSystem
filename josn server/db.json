@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name":"admin",
+      "userName":"a",
+      "age":26,
+      "email":"admin@gmail.com",
+      "password":"1",
+      "phone":"01014886039",
+      "role":"admin"
+    },
+    {
+      "id": 2,
+      "name":"yasmin",
+      "userName":"y",
+      "email":"yasmin@gmail.com",
+      "age":18,
+      "level":3,
+      "phone":"01014886038",
+      "password":"1",
+      "role":"student",
+      "grade":0
+    },
+    {
+      "id": 3,
+      "name":"emad",
+      "userName":"emad1",
+
+      "email":"emad@gmail.com",
+      "password":"123456",
+      "age":18,
+      "level":3,
+      "phone":"01014886037",
+      "role":"student",
+      "grade":0
+
+    }
+
+   
+  ],
+"qustions":[
+  {
+"id":1,
+"header":"how many apple ?",
+"answers":[10,20,30],
+"body":[],
+"correct Answer":[10],
+"mark":10,
+"subject":"angular",
+"type":"ture or false"
+
+},
+{
+  "id":2,
+  "header":"how much banana ?",
+  "answers":[10,20,40],
+  "body":[],
+  "correct Answer":[40],
+  "mark":10,
+  "subject":"angular",
+  "type":"ture or false"
+  
+  }
+]
+
+ 
+}
